@@ -1,0 +1,16 @@
+Vehicle,Phase,Value
+Battery electric vehicle - Base case,Vehicle manufacturing,5.4
+Battery electric vehicle - Base case,Batteries-assembly and other,1.2
+Battery electric vehicle - Base case,Batteries-minerals,1.4
+Battery electric vehicle - Base case,Electricity,11.7
+Battery electric vehicle - Base case,Fuel cycle,0
+Battery electric vehicle - High-GHG minerals case,Vehicle manufacturing,5.4
+Battery electric vehicle - High-GHG minerals case,Batteries-assembly and other,1.2
+Battery electric vehicle - High-GHG minerals case,Batteries-minerals,2.8
+Battery electric vehicle - High-GHG minerals case,Electricity,11.7
+Battery electric vehicle - High-GHG minerals case,Fuel cycle,0
+Internal combustion engine vehicle,Vehicle manufacturing,6.0
+Internal combustion engine vehicle,Batteries-assembly and other,0
+Internal combustion engine vehicle,Batteries-minerals,0
+Internal combustion engine vehicle,Electricity,0
+Internal combustion engine vehicle,Fuel cycle,35.9

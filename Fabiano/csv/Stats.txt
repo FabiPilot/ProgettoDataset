@@ -1,0 +1,15 @@
+macchine totalmente elettriche in italia: 127.789
+totali: 39.717.874
+
+commercial and residential 13%
+Agricoltura 11%
+Trasporto 27%
+Industria 24%
+Elettricità 25%
+
+between 3120 kg (about 3 tons) and 15,680 kg (about 16 tons) Tesla Model 3
+
+https://www.acea.auto/figure/co2-emissions-from-car-production-in-eu/
+https://theicct.org/sites/default/files/publications/EV-life-cycle-GHG_ICCT-Briefing_09022018_vF.pdf
+https://climobil.connecting-project.lu/?batteryLifetime=240000&batteryCapacity=65&greenhouseGas=65&electricCarRange=340&carbonElectricityMix=300&greenhouseBattery=30&greenhouseWTT=25&greenhouseTTW=148&batteryPenalty=0.9&annualMileage=20000&ICECurb=1060&ECurb=1750&NEDCpenalty=0.39&decarbonization=0
+https://datahub.io/core/co2-ppm
